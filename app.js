@@ -32,6 +32,6 @@ app.get("/register", (req, res) => {
 
 
 app.get("*", (req, res) => {
-    res.send("¡la pagina busca que busca, no se encuentra!")
+    res.send("¡la página que estás buscando, no se encuentra!")
 });
 
