@@ -9,5 +9,5 @@ app.get('/home', (req, res) => {
 })
 
 app.listen(3000, () => {
-    console.log('servidor corriendo en puerto 3000')
+    console.log('http://localhost:3000')
 })
