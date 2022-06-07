@@ -134,17 +134,17 @@ footer .fas:hover {
 
 /* clase 13*/
 
-/* main {
+main {
     width: 90%;
     margin: auto;
-} */
+}
 
-/* .caja-producto {
+.caja-producto {
     margin-bottom: 10px;
     background-color: white;
 
-} */
-/* 
+}
+
 .caja-producto:hover {
     box-shadow: 0px 0px 10px rgb(100, 100, 100);
 }
@@ -153,25 +153,25 @@ footer .fas:hover {
     border-top: 1px solid #ebebeb;
     padding: 15px;
     position: relative;
-} */
+}
 
 
-/* 
+
 .fa-truck {
     color: rgb(75, 144, 7);
     transition: transform 1.5s;
-} */
-/* 
+}
+
 .fa-truck:hover {
     transform: rotate(-90deg);
-} */
+}
 
 
-/* 
+
 .descuento {
     color: rgb(75, 144, 7);
     flex-grow: 0.7;
-} */
+}
 
 .img {
     width: 90%;
